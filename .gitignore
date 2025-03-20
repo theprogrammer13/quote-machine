@@ -1,0 +1,20 @@
+# Ignorar archivos de log
+*.log
+
+# Ignorar la carpeta de dependencias
+node_modules/
+
+# Ignorar archivos de configuración local
+.env
+config.local.json
+
+# Ignorar archivos generados por el IDE
+.idea/
+.vscode/
+
+# Ignorar archivos binarios
+*.exe
+*.bin
+
+# Ignorar archivos temporales
+*.tmp
